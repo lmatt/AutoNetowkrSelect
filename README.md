@@ -1,4 +1,4 @@
-# AutoNetowkrSelect
+# AutoNetworkSelect
 Turn off wifi when there's ethernet, turn on wifi when there's no ethernet
 * Also checks when you logon or unlock
 * Only useful for laptops and managers/mobile users with a dock
